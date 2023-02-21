@@ -10,9 +10,9 @@ module.exports = function (environment /*, appConfig */) {
   const rootURL = environment.rootURL || '/';
 
   return {
-    name: 'emberclear',
-    short_name: 'emberclear',
-    description: 'Encrypted Chat. No History. No Logs.',
+    name: 'ASTUR',
+    short_name: 'ASTUR',
+    description: 'Encrypted Chat. Historyless. Self-Hosted.',
     start_url: `${rootURL}`,
     display: 'standalone',
     background_color: '#fff',
